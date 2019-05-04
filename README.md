@@ -57,7 +57,5 @@ Server is a "Adafruit, Espressif ESP32 Development Board - Developer Edition", G
 breakout board, purchased from "Ebay.com," NEO m8b GPS Module, and Tipping bucket, rain gauge.
 
 Developement board is Arduino friendly; can be programed using the Arduino IDE.
-Under $25.00 with shipping, is the project cost for Development Board and one,
-GY-BME280 breakout board, sensor used for Barometric Pressure, Humidity, and Temperature.
 
 Sensor is located indoors, currently.  Rain gauge has not been installed.
