@@ -67,6 +67,6 @@ $WriteMyRequest=
 "<a href='https://forum.arduino.cc/index.php?topic=466867.0' style='color: #ffffff' >Project Discussion</a></h3></p>".
 "</div></body></head></html>";
 
-file_put_contents('dataDisplayer.html', $WriteMyRequest);
+file_put_contents('dataDisplayer.html', $WriteMyRequest); 
 
 ?>
