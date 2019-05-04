@@ -40,6 +40,7 @@ webInterface sends data to hosted, domain website.
 
 11. Free, "000webhost powered by HOSTINGER" is used for "Domain hosted" website.
  to use "Hosted eb Site feature.
+ 
 12. "dataCollector.php" needs to be uploaded to your Hosted web site.
 
 13. Simple FTP file transfer; allows for easy file maintence, preventing too many log log files.
@@ -59,10 +60,11 @@ hours.
 Note this is a project is in development; maybe offline or log files may be affected.
 Server is online 24/7; except during periods of testing.
 
-Server is a "Adafruit, Espressif ESP32 Development Board - Developer Edition",  and GY-BME280 
-breakout board, purchased from "Ebay.com" both are required for project. Sensor is located 
-indoors, currently.
+Server is a "Adafruit, Espressif ESP32 Development Board - Developer Edition", GY-BME280 
+breakout board, purchased from "Ebay.com," NEO m8b GPS Module, and Tipping bucket, rain gauge.
 
 Developement board is Arduino friendly; can be programed using the Arduino IDE.
 Under $25.00 with shipping, is the project cost for Development Board and one,
 GY-BME280 breakout board, sensor used for Barometric Pressure, Humidity, and Temperature.
+
+Sensor is located indoors, currently.  Rain gauge has not been installed.
