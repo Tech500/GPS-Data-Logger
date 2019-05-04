@@ -59,10 +59,10 @@ hours.
 Note this is a project is in development; maybe offline or log files may be affected.
 Server is online 24/7; except during periods of testing.
 
-Server is a "Wemos WiFi D1 R2" with 32 MiB Flash Memory. Development Board,  and GY-BME280 
-breakout board, purchased from "Ebay.com" ; both are required for project. Sensor is located 
+Server is a "Adafruit, Espressif ESP32 Development Board - Developer Edition",  and GY-BME280 
+breakout board, purchased from "Ebay.com" both are required for project. Sensor is located 
 indoors, currently.
 
 Developement board is Arduino friendly; can be programed using the Arduino IDE.
-Under $20.00 with shipping, is the project cost for Development Board and one,
+Under $25.00 with shipping, is the project cost for Development Board and one,
 GY-BME280 breakout board, sensor used for Barometric Pressure, Humidity, and Temperature.
