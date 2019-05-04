@@ -54,8 +54,8 @@ can be downloaded directly without FTP transfer.
 
 Domain Hosted website:  https://bit.ly/2M5NBs0  --no file browser due to hosted, 
 domain server restrictions (free hosting service). Hosted server "sleeps" one hour every 24 
-hours. 
------------------------------------------------------------------------------------
+hours.
+
 Note this is a project is in development; maybe offline or log files may be affected.
 Server is online 24/7; except during periods of testing.
 
