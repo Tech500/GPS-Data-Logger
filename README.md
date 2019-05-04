@@ -14,39 +14,32 @@ point, temperature, heat index, barometric pressure (both inches of Mercury and 
 "FAVICON.ICO", and "ACCESS.TXT" are listed; however, they are for internal use and are restricted.
 "Opened with/Save as," result of clicking link produces "404 Page not found."
 
-4. LOG.TXT file is appended every 15 minutes with the latest update; storing data from Dynamic
-web page.
-
-5. DIFFER.TXT stores the difference in Barometric Pressure for the last fifteen minutes. Only
-a difference of equal to or greater than .020 inches of Mercury are logged with difference,
-date and time.
-
-6. URL file names other than ones defined in the Sketch produce "404 Page not found." Methods   
+4. URL file names other than ones defined in the Sketch produce "404 Page not found." Methods   
 other than "GET," produce "405" message and exits current request.
 
-7. Optional,  Audible alert from Piezo electric buzzer when there is Barometric Pressure difference of
+5. Optional,  Audible alert from Piezo electric buzzer when there is Barometric Pressure difference of
 .020 inches of Mercury. I am interested in sudden drop of Barometric Pressure in a 15 minute
 interval. Serve weather more likely with a sudden drop. Difference of .020 inches of Mercury
 point is set for my observations to log and sound audible alert; not based on any known value
 to be associated with serve weather.
 
-8. Optional, two-line LCD Display of Barometric Pressure, in both inches of Mercury and millibars.
+6. Optional, two-line LCD Display of Barometric Pressure, in both inches of Mercury and millibars.
 
-9. Tempature, Humidity, Barometric Pressure, and Dew Point have four embedded "ThinkSpeak.com"
+7. Tempature, Humidity, Barometric Pressure, and Dew Point have four embedded "ThinkSpeak.com"
 graphs on one web page. Graphs are created from Iframes provided by "ThingSpeak.com"
 
-10. ESP32HTTPClient library is used to POST data to the hosted, Domain website.  Function 
+8. ESP32HTTPClient library is used to POST data to the hosted, Domain website.  Function 
 webInterface sends data to hosted, domain website.
 
-11. Free, "000webhost powered by HOSTINGER" is used for "Domain hosted" website.
- to use "Hosted eb Site feature.
+9. Free, "000webhost powered by HOSTINGER" is used for "Domain hosted" website.
+ to use "Hosted web Site feature.
  
-12. "dataCollector.php" needs to be uploaded to your Hosted web site.
+10. "dataCollector.php" needs to be uploaded to your Hosted web site.
 
-13. Simple FTP file transfer; allows for easy file maintence, preventing too many log log files.
+11. Simple FTP file transfer; allows for easy file maintence, preventing too many log log files.
 tested with Filezilla client.
 
-14. Built-in OTA update; remote sketch update by web interface.
+12. Built-in OTA update; remote sketch update by web interface.
 
 Two websites,one sketch: "Weather_View_Timezone.ino"
 
